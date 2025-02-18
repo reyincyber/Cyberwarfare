@@ -59,7 +59,7 @@ This memo provides a policy roadmap to mitigate risks posed by nation-state cybe
   - Implementing **Cybersecurity Standards for Critical Infrastructure**
   - Promoting **Legal & Ethical Boundaries for State-Sponsored Cyber Attacks**  
 
-📄 [Read Full Report - Policy Memo: Preventing Future Cyber Weapons Escalation]([./Policy_Memo_Cyber_Weapons.pdf](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/Policy%20Memo%20Recommending%20Safeguards%20To%20Prevent%20Future%20Cyber%20Weapons%20Escalation.pdf))
+📄 [Policy Memo: Preventing Future Cyber Weapons Escalation](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/Policy%20Memo%20Recommending%20Safeguards%20To%20Prevent%20Future%20Cyber%20Weapons%20Escalation.pdf)
 
 ---
 
