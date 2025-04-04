@@ -32,7 +32,7 @@ This document illustrates *how nation-states conduct structured cyber campaigns*
 
 📄 [Read Full Report - Lab 2: Strategic Cyber Operation Report - Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report-Operation%20Shadow%20Strike.pdf)
 
-📄 [Report Slides - Lab 2: Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report%20Operation%20Shadow%20Strike.pptx)
+📄 [Report Slides - Lab 2: Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_%20Operation%20Shadow%20Strike%20Slides.pptx)
 
 ---
 
