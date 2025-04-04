@@ -10,7 +10,8 @@ The [ACW801](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d
 
 📄 [2: Strategic Cyber Operation Report - Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report-Operation%20Shadow%20Strike.pdf)
 
-📄 [2: Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report%20Operation%20Shadow%20Strike.pptx)
+📄 [2: Operation Shadow Strike]([https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report%20Operation%20Shadow%20Strike.pptx](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_%20Operation%20Shadow%20Strike%20Slides.pptx))
+📄 [2: Operation Shadow Strike]()
 
 📄 [3: International Cyber Warfare Laws & Ethics](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L3_International%20Cyber%20Warfare%20Laws%20and%20Ethics.pdf)
 
