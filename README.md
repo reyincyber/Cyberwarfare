@@ -8,10 +8,7 @@ The [ACW801](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d
 
 📄 [1: Dissecting Stuxnet - Anatomy of a Cyber Weapon](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L1%20-%20Dissecting%20Stuxnet%20Anatomy%20of%20a%20Cyber%20Weapon.pdf)
 
-📄 [2: Strategic Cyber Operation Report - Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report-Operation%20Shadow%20Strike.pdf)
-
-📄 [2: Operation Shadow Strike]([https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report%20Operation%20Shadow%20Strike.pptx](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_%20Operation%20Shadow%20Strike%20Slides.pptx))
-📄 [2: Operation Shadow Strike]()
+📄 [2: Strategic Cyber Operation Report - Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L2_Strategic%20Cyber%20Operation%20Report-Operation%20Shadow%20Strike.pdf); PowerPoint: [Operation Shadow Strike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_%20Operation%20Shadow%20Strike%20Slides.pptx)
 
 📄 [3: International Cyber Warfare Laws & Ethics](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/ACW801_L3_International%20Cyber%20Warfare%20Laws%20and%20Ethics.pdf)
 
@@ -19,6 +16,23 @@ The [ACW801](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d
 
 ## ACW802	Offensive Cyber Operations
 
+The ACW802 directory contains hands-on lab documentation and practical exercises, focusing on offensive cybersecurity operations and malware analysis environments. The labs are designed to simulate real-world attack scenarios and prepare environments for advanced threat analysis and penetration testing.
+
+📄 [ACW802_OperationShadowStrike.pdf](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_OperationShadowStrike.pdf)
+
+📄 [ACW802_FlareVM_SetUp.pdf](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_FlareVM_SetUp.pdf)
+
+---
+
 ## ACW803	Defensive Cyber Operations
+The ACW803 directory contains hands-on lab documentation and practical exercises, focusing on Defensive Cyber Operations
+
+📄 
+--
 
 ## ACW804	Cyber Warfare in Critical Infrastructure
+The ACW804 directory contains hands-on lab documentation and practical exercises, focusing on Cyber Warfare in Critical Infrastructure
+
+📄 
+
+---
