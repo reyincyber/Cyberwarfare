@@ -18,9 +18,11 @@ The [ACW801](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d
 
 The ACW802 directory contains hands-on lab documentation and practical exercises, focusing on offensive cybersecurity operations and malware analysis environments. The labs are designed to simulate real-world attack scenarios and prepare environments for advanced threat analysis and penetration testing.
 
-📄 [ACW802_OperationShadowStrike.pdf](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_OperationShadowStrike.pdf)
+📄 [ACW802_OperationShadowStrike](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_OperationShadowStrike.pdf)
 
-📄 [ACW802_FlareVM_SetUp.pdf](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_FlareVM_SetUp.pdf)
+📄 [ACW802_FlareVM_SetUp](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_FlareVM_SetUp.pdf)
+
+📄 [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis.pdf)
 
 ---
 
