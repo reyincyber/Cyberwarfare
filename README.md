@@ -22,7 +22,7 @@ The ACW802 directory contains hands-on lab documentation and practical exercises
 
 📄 [ACW802_FlareVM_SetUp](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_FlareVM_SetUp.pdf)
 
-📄 [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis.pdf)
+📄 [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis_lab.pdf)
 
 ---
 
