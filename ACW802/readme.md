@@ -12,7 +12,7 @@ Operation Shadow Strike simulates a multi-phase Advanced Persistent Threat (APT)
 This lab outlines the setup of a Windows 10-based malware analysis environment using FLARE-VM within VirtualBox. The guide walks through step-by-step instructions to _**install VirtualBox, configure the Windows 10 ISO, disable security protections, and deploy the FLARE-VM toolkit**_. Key takeaways include the importance of isolating the analysis environment, disabling Windows Defender and automatic updates, and snapshotting at critical stages. The setup emphasizes safety and operational integrity for conducting reverse engineering and malware experimentation tasks.
 
 ---
-## [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis.pdf)
+## [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis_lab.pdf)
 
 This lab involves dynamic behavioral analysis of a suspicious executable in a FLARE-VM setup. It explores real-time process activity using tools like Procmon, Regshot, and Wireshark. Findings include registry modifications, code injection into legitimate processes, creation of persistence mechanisms like Run keys and scheduled tasks, and HTTP POST beaconing to simulated C2 servers. The exercise helps identify indicators of compromise (IOCs) and emphasizes the importance of endpoint detection, registry auditing, and network monitoring to detect and contain malware threats.
 
