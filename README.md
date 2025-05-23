@@ -14,7 +14,7 @@ The [ACW801](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d
 
 📄 [Policy Memo: Preventing Future Cyber Weapons Escalation](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW801/Policy%20Memo%20Recommending%20Safeguards%20To%20Prevent%20Future%20Cyber%20Weapons%20Escalation.pdf)
 
-## ACW802	Offensive Cyber Operations
+## [ACW802	Offensive Cyber Operations](https://github.com/reyincyber/Cyberwarfare/tree/main/ACW802)
 
 The ACW802 directory contains hands-on lab documentation and practical exercises, focusing on offensive cybersecurity operations and malware analysis environments. The labs are designed to simulate real-world attack scenarios and prepare environments for advanced threat analysis and penetration testing.
 
@@ -24,17 +24,21 @@ The ACW802 directory contains hands-on lab documentation and practical exercises
 
 📄 [ACW803_Dynamic Malware Analysis: Behavioral Profiling of a Suspicious Executable](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW802/ACW802_Dynamic%20Malware%20Analysis_lab.pdf)
 
----
-
-## ACW803	Defensive Cyber Operations
-The ACW803 directory contains hands-on lab documentation and practical exercises, focusing on Defensive Cyber Operations
+## [ACW803	Defensive Cyber Operations](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW803_Operation%20Blacktrace_Lab1.pdf)
+Operation Blacktrace investigates a stealthy breach at ICDFA’s internal network, where a malicious PACP (Packet Capture) file redirected internal traffic to an attacker-controlled server. The attacker exfiltrated data, escalated privileges using stolen credentials, and conducted internal reconnaissance without deploying malware. This case underscores the risks of fileless attacks and highlights the need for network segmentation, anomaly-based detection, and hardened proxy configurations.
 
 📄 [ACW803_Operation Blacktrace](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW803_Operation%20Blacktrace_Lab1.pdf)
---
 
-## ACW804	Cyber Warfare in Critical Infrastructure
-The ACW804 directory contains hands-on lab documentation and practical exercises, focusing on Cyber Warfare in Critical Infrastructure
+
+## [ACW804	Cyber Warfare in Critical Infrastructure](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW804_CyberWarfare%20in%20Crititical%20Infrastructure.pdf)
+This strategic lab assesses the national security risks of cyberattacks on critical infrastructure (CI), including energy grids, healthcare systems, and financial networks. It explores nation-state motivations, real-world attacks like Industroyer2, and outlines a comprehensive resilience framework. The document emphasizes Zero Trust, threat modeling, OT security, cross-sector collaboration, and rapid response capabilities to defend against state-sponsored campaigns.
 
 📄 [ACW804_CyberWarfare in Crititical Infrastructure](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW804_CyberWarfare%20in%20Crititical%20Infrastructure.pdf)
 
 ---
+
+# Contribution & Licensing
+These labs are part of the International Cybersecurity and Digital Forensic Academy (ICDFA) Advanced Cyber Warfare Programme and are shared for educational purposes. Contributions, issue reports, and enhancements are welcome through pull requests.
+
+#  Contact
+For inquiries or discussions, feel free to reach out via [**LinkedIn**](https://linkedin.com/in/cyberrey)  | [**GitHub**](https://github.com/reyincyber/) | [**Medium**](https://medium.com/@cyberrey) | [**YouTube**](https://www.youtube.com/@reyincyber).
