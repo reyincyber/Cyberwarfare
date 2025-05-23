@@ -29,12 +29,12 @@ The ACW802 directory contains hands-on lab documentation and practical exercises
 ## ACW803	Defensive Cyber Operations
 The ACW803 directory contains hands-on lab documentation and practical exercises, focusing on Defensive Cyber Operations
 
-📄 
+📄 [ACW803_Operation Blacktrace](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW803_Operation%20Blacktrace_Lab1.pdf)
 --
 
 ## ACW804	Cyber Warfare in Critical Infrastructure
 The ACW804 directory contains hands-on lab documentation and practical exercises, focusing on Cyber Warfare in Critical Infrastructure
 
-📄 
+📄 [ACW804_CyberWarfare in Crititical Infrastructure](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW804_CyberWarfare%20in%20Crititical%20Infrastructure.pdf)
 
 ---
