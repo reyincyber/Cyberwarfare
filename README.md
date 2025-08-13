@@ -1,6 +1,7 @@
 # Advanced Cyber Warfare Projects 
 
 This Repository covers lab projects I have submitted as part of the International Cybersecurity and Digital Forensic Academy (ICDFA) Advanced Cyber Warfare Programme
+
 🔗 Documentation: [GitHub](https://github.com/reyincyber/Cyberwarfare); [YouTube](https://www.youtube.com/watch?v=90E-tNYui8o&list=PLlC9xarFXu2s9brHEsG2yb0KULURKlNaW&pp=gAQB)
 
 ## [ACW801	Fundamentals of Cyber Warfare](https://github.com/reyincyber/Cyberwarfare/tree/4c6bd8a2a755e326f6d6ce46493cdb902ece0714/ACW801)
@@ -35,6 +36,13 @@ Operation Blacktrace investigates a stealthy breach at ICDFA’s internal networ
 This strategic lab assesses the national security risks of cyberattacks on critical infrastructure (CI), including energy grids, healthcare systems, and financial networks. It explores nation-state motivations, real-world attacks like Industroyer2, and outlines a comprehensive resilience framework. The document emphasizes Zero Trust, threat modeling, OT security, cross-sector collaboration, and rapid response capabilities to defend against state-sponsored campaigns.
 
 📄 [ACW804_CyberWarfare in Crititical Infrastructure](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW804_CyberWarfare%20in%20Crititical%20Infrastructure.pdf)
+
+## [ACW901 – Cyber Warfare Analysis](https://github.com/reyincyber/Cyberwarfare/tree/main/ACW901)
+This module delivers a comprehensive assessment of cyber warfare strategies, operational tactics, and their implications in modern defense and national security. The content includes a detailed written report and presentation slides, covering threat actor profiling, operational impact forecasting, and resilience recommendations. Designed for both strategic planners and cybersecurity practitioners, ACW901 bridges theoretical frameworks with real-world case studies to enhance understanding of cyber operations in conflict scenarios.
+
+📄 [ACW901_CyberWarfare_Analysis Report](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW901/ACW901_CyberWarfare_Analysis.pdf)
+
+📄 [Slides for ACW901_CyberWarfare_Analysis](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW901/ACW901_CyberWarfare_Analysis%20Slides.pptx)
 
 ---
 
