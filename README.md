@@ -64,7 +64,7 @@ Operation *AEGIS SHIELD* simulates a full-scale defensive cyber operation under 
 ---
 
 # Contribution & Licensing
-These labs are part of the International Cybersecurity and Digital Forensic Academy (ICDFA) Advanced Cyber Warfare Programme and are shared for educational purposes. Contributions, issue reports, and enhancements are welcome through pull requests.
+These labs are part of the International Cybersecurity and Digital Forensic Academy (ICDFA) Advanced Cyber Warfare Programme. These materials are intended for educational and defensive purposes only. By using them you agree to abide by applicable laws and institutional policies. Do not use the techniques on systems you do not own or have explicit authorization to test. Contributions, issue reports, and enhancements are welcome through pull requests.
 
 #  Contact
 For inquiries or discussions, feel free to reach out via [**LinkedIn**](https://linkedin.com/in/cyberrey)  | [**GitHub**](https://github.com/reyincyber/) | [**Medium**](https://medium.com/@cyberrey) | [**YouTube**](https://www.youtube.com/@reyincyber).
