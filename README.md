@@ -44,6 +44,23 @@ This module delivers a comprehensive assessment of cyber warfare strategies, ope
 
 📄 [Slides for ACW901_CyberWarfare_Analysis](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW901/ACW901_CyberWarfare_Analysis%20Slides.pptx)
 
+## [ACW902 – Nation-State Cyber Operations - Operation BLACK FOG](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW902%20Operation%20BLACK%20FOG%20%E2%80%93%20OPSPORTAL%20v2.1.4.pdf)
+This lab simulates a nation-state-level cyber operation targeting the OPSPORTAL v2.1.4 logistics command system. Through advanced web exploitation, including SQL Injection and misconfiguration analysis, the assessment uncovered critical vulnerabilities leading to credential leaks, exposed cryptographic keys, and database compromise. The exercise demonstrates real-world APT methodologies spanning reconnaissance, exploitation, and data exfiltration while providing key defensive recommendations to strengthen national-level cyber resilience and critical infrastructure protection.
+
+📄 [ACW902_- Operation BLACK FOG](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW902%20Operation%20BLACK%20FOG%20%E2%80%93%20OPSPORTAL%20v2.1.4.pdf)
+
+## [ACW903: Weaponizing Vulnerabilities - Exploit Development](https://github.com/reyincyber/Cyberwarfare/tree/main/ACW903)
+ACW903 examines the full exploit-development lifecycle: from fuzzing and crash triage to PoC creation, payload construction, and advanced bypasses (ROP/ret2libc) used to defeat DEP/NX and ASLR. The module blends hands-on techniques with real-world case studies (EternalBlue, Baron Samedit) to show how multiple bugs are chained into reliable exploits and what defenders must do—patching, memory hardening, EDR and layered mitigations—to raise the attacker’s cost.
+
+📄 [ACW903: Weaponizing Vulnerabilities - Exploit Development](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW903/ACW903_GROUP%20B%20Malware%20and%20Exploit%20Techniques.pdf)
+
+📄 [Slides for ACW903: Weaponizing Vulnerabilities - Exploit Development](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW903/ACW903_GROUP%202_Advanced%20Malware%20and%20Exploit%20Technique%20Slides.pptx)
+
+## [ACW904 – Operation AEGIS SHIELD](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW904_%20Operation%20AEGIS%20SHIELD.pdf)
+Operation *AEGIS SHIELD* simulates a full-scale defensive cyber operation under live adversary conditions, focusing on real-time command decision-making, containment, and intelligence escalation. The exercise follows the cyber kill chain from delivery to command-and-control, detailing the defense against the IRON VORTEX threat group’s attempted intrusion on the POSEIDON Maritime Logistics Network. Through structured injects, forensic response, and situational reporting, the module highlights the integration of active defense, evidence preservation, and operational leadership within a nation-state cyber defense framework.
+
+📄[ACW904 – Operation AEGIS SHIELD](https://github.com/reyincyber/Cyberwarfare/blob/main/ACW904_%20Operation%20AEGIS%20SHIELD.pdf) 
+
 ---
 
 # Contribution & Licensing
